@@ -15,4 +15,4 @@ A big thank you to the team for their support and collaboration throughout this 
 
 Feel free to reach out if you’re interested in learning more about the dashboard or discussing data-driven solutions!
 
-#PowerBI #DataAnalytics #BusinessIntelligence #GlobalStore #Dashboard #DataDriven #Visualization #BusinessGrowth
+
