@@ -1,5 +1,5 @@
 ![Global Store Power BI](https://github.com/user-attachments/assets/44d166cd-9ce6-43ab-bf72-c469669a2f4e)
-# Power-BI
+# Power-BI-Global Store
 
 I’m thrilled to share my latest project: a comprehensive Power BI dashboard created for Global Store! 📊✨
 
